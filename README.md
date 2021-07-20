@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pawanpillai
 - 👀 I’m interested in Web and Mobile Application development.
-- 🌱 I’m currently learning C++
+- 🌱 I’m always learning to code...
 
 <!---
 pawanpillai/pawanpillai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
